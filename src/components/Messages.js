@@ -8,7 +8,9 @@ import {
   Switch
 } from 'react-router-dom';
 
+
 const Messages = ({ match }) => (
+  
   <div>
     {console.log(match)}
     <ul>
